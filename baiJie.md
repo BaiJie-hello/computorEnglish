@@ -10,7 +10,7 @@
 
 [这是一个链接，目标baidu](www.baidu.com)
 
-![来源网上的图片](https://img2.baidu.com/it/u=1286206569,4084373574&fm=26&fmt=auto&gp=0.jpg)
+![来源网上的图片](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fningbo.sinaimg.cn%2F2014%2F1015%2FU8224P1480DT20141015155337.jpg&refer=http%3A%2F%2Fningbo.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622092967&t=f02b88c5f499ee91c0334189cd62cd10=0.jpg)
 
 ``` 代码区域
 public class HelloWorld {
