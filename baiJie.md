@@ -10,7 +10,7 @@
 
 [这是一个链接，目标baidu](www.baidu.com)
 
-![来源网上的图片](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201811%2F24%2F20181124160642_kowja.jpg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622092519&t=346b0b3624ab024e89b943799c83b140=0.jpg)
+![来源网上的图片](https://img2.baidu.com/it/u=1286206569,4084373574&fm=26&fmt=auto&gp=0.jpg)
 
 ``` 代码区域
 public class HelloWorld {
