@@ -1,7 +1,7 @@
 [返回README.md](/README.md)
 
 
-![本地的图片](a.jpg)
+![本地的图片](spirited_away.jpg)
 
 
 ## h2大小的header
